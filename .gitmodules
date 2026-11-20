@@ -1,0 +1,3 @@
+[submodule "proto-fleet"]
+	path = proto-fleet
+	url = https://github.com/block/proto-fleet.git
